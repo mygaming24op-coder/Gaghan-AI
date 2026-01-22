@@ -1,2 +1,3 @@
 # Gaghan-AI
-AI chat
+
+This is my AI chat website.
